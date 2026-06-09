@@ -4,6 +4,7 @@ import { ExecFileFn } from "./types";
 export const properties = {
   from: {
     text: [
+      "ofd",
       "602",
       "abw",
       "csv",
